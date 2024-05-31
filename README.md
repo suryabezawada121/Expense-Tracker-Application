@@ -27,15 +27,6 @@ The Personal Expense Tracker is a comprehensive expense management system that a
 - Kubernetes: Employed for container orchestration.
 - IBM Cloud: Utilized for deployment and hosting.
 
-## Project Members
-
-The members of this project are:
-
-1. Vankadaru Leela Sathvika - Student ID: 4169
-2. Pragnasya S - Student ID: 4151
-3. Shaik Safeena - Student ID: 4140
-4. Vagugandla Neelima - Student ID: 4172
-
 ## Features
 
 - Expense Management: Add, categorize, edit, and delete expenses.
